@@ -82,7 +82,6 @@ PKG_CONFIG_PATH=/usr/lib64/pkgconfig/ \
     --enable-vty-group=root \
 	--enable-vtysh \
 	--disable-doc \
-	--disable-bgpd \
 	--disable-ripd \
 	--disable-ripngd \
 	--disable-ospfd \
