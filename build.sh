@@ -2,7 +2,7 @@
 set -e
 
 FRR_URL=https://github.com/FRRouting/frr.git
-FRR_VERSION=frr-7.3.1
+FRR_VERSION=frr-7.5
 
 PCRE_VERSION=8.44
 PCRE_URL="https://ftp.pcre.org/pub/pcre/pcre-$PCRE_VERSION.tar.bz2"
